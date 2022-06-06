@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "id": "app.vemto.Laravel-permission ",
+    "name": "Laravel-permission",
+    "title": "Spatie Laravel Permission",
+    "description": "Laravel Permission Plugin",
+    "image": "",
+    "main": "src/main.js",
+    "vueComponent": "dist/Laravel-permission.umd.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/himan72/vemto-laravel-permission-plugin"
+    },
+    "minVemtoVersion": "1.0.0"
+}
