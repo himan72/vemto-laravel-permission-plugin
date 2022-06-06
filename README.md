@@ -11,7 +11,6 @@ The plugin aims to bring the [Spatie Laravel Permission package](https://spatie.
 - Installs the [Laravel Permission package](https://spatie.be/docs/laravel-permission)
 - Publish the migration files of the package.
 - Publish the configuration file of the package.
-- Migrate roles and permissions tables
 - Configures the package to use the Authenticatable Model of your application.
 
 [Learn here how to use the Spatie Laravel Permission package](https://spatie.be/docs/laravel-permission)
